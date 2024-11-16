@@ -1,0 +1,10 @@
+{"level":"debug","message":"Imprimimos Debug"}
+{"level":"verbose","message":"Imprimimos Verbose"}
+{"level":"info","message":"Imprimimos Info"}
+{"level":"http","message":"Imprimimos http"}
+{"level":"warn","message":"Imprimimos Warn"}
+{"level":"error","message":"Imprimimos Error"}
+{"level":"http","message":"GET en / - function toLocaleTimeString() { [native code] }"}
+{"level":"http","message":"GET en /favicon.ico - function toLocaleTimeString() { [native code] }"}
+{"level":"http","message":"GET en / - 12:37:16"}
+{"level":"http","message":"GET en /ruta2 - 12:37:32"}

@@ -1,0 +1,3 @@
+[2024-11-16T12:07:09.490] [WARN] prod - Cheese is quite smelly.
+[2024-11-16T12:07:09.493] [ERROR] prod - Cheese is too ripe!
+[2024-11-16T12:07:09.494] [FATAL] prod - Cheese was breeding ground for listeria.
