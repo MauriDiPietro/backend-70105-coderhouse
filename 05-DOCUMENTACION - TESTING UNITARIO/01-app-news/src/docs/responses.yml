@@ -1,0 +1,76 @@
+components:
+  schema:
+    Noticias:
+      RespuestaRegistroNoticia:
+        type: object
+        properties:
+          _id:
+            type: string
+            description: Id de la noticia.
+          title:
+            type: string
+            description: Titulo de la noticia.
+          body:
+            type: string
+            description: Cuerpo de la noticia.
+          author:
+            type: string
+            description: Autor de la noticia.
+          image:
+            type: string
+            description: Url de la imagen de la noticia.
+          date:
+            type: date
+            description: Fecha de publicación de la noticia.
+        example:
+          _id: sdfs8dfsd7f-2434234fs-fsdf459-fgdfg
+          title: ¡Argentina Campeón de mundo!
+          body: Argentina se consagró campeon del mundo.
+          author: Carlos Perez
+          image: http://sdfsdf.com/sadas.jpg
+          date: 30/11/2024
+      RespuestaGetAllNoticias:
+        type: array
+        items: 
+          properties:
+            id:
+              type: string
+              description: Id de la noticia.
+            title:
+              type: string
+              description: Titulo de la noticia.
+            body:
+              type: string
+              description: Cuerpo de la noticia.
+            author:
+              type: string
+              description: Autor de la noticia.
+            image:
+              type: string
+              description: Url de la imagen de la noticia.
+            date:
+              type: date
+              description: Fecha de publicación de la noticia.
+          example:
+            id: sdfs8dfsd7f-2434234fs-fsdf459-fgdfg
+            title: ¡Argentina Campeón de mundo!
+            body: Argentina se consagró campeon del mundo.
+            author: Carlos Perez
+            image: http://sdfsdf.com/sadas.jpg
+            date: 30/11/2024     
+      RespuestaErrorGetById:
+        type: object
+        properties:
+          msg:
+            type: string
+            description: Mensaje de error cuando no se encuentra la noticia buscada por id.
+        example:
+          msg: No se encontró el id ${id} en la base de datos.        
+      InternalServerError:
+        type: object
+        properties:
+          msg: 
+            type: string
+            description: Error interno del servidor.
+        example:
+          msg: Internal Server Error.

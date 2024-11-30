@@ -78,7 +78,6 @@ export default class UserDaoMySql extends MySqlDao {
 
 }
 
-//! --> persistence
 
 
 

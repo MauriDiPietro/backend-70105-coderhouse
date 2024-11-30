@@ -17,4 +17,3 @@ export const initMySqlDB = async () => {
 
 export default db;
 
-//! --> model product

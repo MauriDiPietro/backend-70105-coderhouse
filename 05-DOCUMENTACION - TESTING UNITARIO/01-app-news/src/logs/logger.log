@@ -1,0 +1,27 @@
+[2024-11-30T12:13:12.529] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-11-30T12:13:12.613] [INFO] default - Conectado a MongoDB!
+[2024-11-30T12:28:32.831] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-11-30T12:28:32.878] [INFO] default - Conectado a MongoDB!
+[2024-11-30T12:28:35.646] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-11-30T12:28:35.699] [INFO] default - Conectado a MongoDB!
+[2024-11-30T12:49:22.375] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-11-30T12:49:22.459] [INFO] default - Conectado a MongoDB!
+[2024-11-30T12:54:58.085] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-11-30T12:54:58.119] [INFO] default - Conectado a MongoDB!
+[2024-11-30T12:56:39.893] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-11-30T12:56:39.952] [INFO] default - Conectado a MongoDB!
+[2024-11-30T12:57:26.679] [INFO] default - POST /news
+[2024-11-30T12:58:11.409] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-11-30T12:58:11.457] [INFO] default - Conectado a MongoDB!
+[2024-11-30T13:05:49.331] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-11-30T13:05:49.409] [INFO] default - Conectado a MongoDB!
+[2024-11-30T13:07:02.475] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-11-30T13:07:02.519] [INFO] default - Conectado a MongoDB!
+[2024-11-30T13:07:28.401] [INFO] default - GET /news
+[2024-11-30T13:13:10.005] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-11-30T13:13:10.046] [INFO] default - Conectado a MongoDB!
+[2024-11-30T13:13:38.211] [INFO] default - GET /news
+[2024-11-30T13:14:06.818] [INFO] default - GET /news/674b35e6cd493ad457adec2d
+[2024-11-30T13:15:02.775] [INFO] default - GET /news/674b35e6cd493ad457adec3d
+[2024-11-30T13:18:19.660] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-11-30T13:18:19.703] [INFO] default - Conectado a MongoDB!

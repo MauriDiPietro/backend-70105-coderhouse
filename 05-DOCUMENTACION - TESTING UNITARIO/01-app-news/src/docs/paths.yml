@@ -1,0 +1,97 @@
+paths:
+  /news:
+    post:
+      tags:
+      - Noticias
+      summary: Registro de la noticia en base de datos.
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/parameters/schemas/BodyRegistroNoticia'
+        required: true   
+      responses:
+        200:
+          description: Se registra la noticia correctamente.
+          content:
+            application/json:
+              schema:     
+                $ref: '#/components/schema/Noticias/RespuestaRegistroNoticia'
+        500:
+          description: Se registra la noticia correctamente.
+          content:
+            application/json:
+              schema:     
+                $ref: '#/components/schema/Noticias/InternalServerError'
+    get:
+      tags:
+      - Noticias
+      summary: Lista de noticias.
+      responses:
+        200:
+          description: Lista de noticias.
+          content:
+            applicacion/json:
+              schema:
+                $ref: '#/components/schema/Noticias/RespuestaGetAllNoticias'
+  /news/{id}:
+    get:
+      tags:
+      - Noticias
+      summary: Busca noticias por id.
+      parameters:
+        - in: path
+          name: id
+          required: true
+          description: id referente a la noticia.
+          schema:
+            type: string
+      responses:
+        200:
+          description: Noticia encontrada.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schema/Noticias/RespuestaRegistroNoticia'
+        404:
+          description: Noticia no encontrada.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schema/Noticias/RespuestaErrorGetById'
+    put:
+      tags:
+      - Noticias
+      summary: Editar noticia.
+      parameters:
+        - in: path
+          name: id
+          required: true
+          description: id referente a la noticia.
+          schema:
+            type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/parameters/schemas/BodyRegistroNoticia'
+        required: true  
+      responses:
+        200:
+          description: Se registra la noticia correctamente.
+          content:
+            application/json:
+              schema:     
+                $ref: '#/components/schema/Noticias/RespuestaRegistroNoticia'
+        500:
+          description: Se registra la noticia correctamente.
+          content:
+            application/json:
+              schema:     
+                $ref: '#/components/schema/Noticias/InternalServerError'
+        404:
+          description: Noticia no encontrada.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schema/Noticias/RespuestaErrorGetById'

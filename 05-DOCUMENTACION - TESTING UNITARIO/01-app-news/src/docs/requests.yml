@@ -1,0 +1,28 @@
+components:
+  parameters:
+    schemas:
+      BodyRegistroNoticia:
+        type: object
+        required:
+          - title
+          - body
+          - author
+          - image
+        properties:
+          title:
+            type: string
+            description: Título de la noticia.
+            example: ¡Argentina Campeón del mundo!
+          body:
+            type: string
+            description: Cuerpo de la noticia
+            example: Argentina se consagró campeón del mundo tras vencer a Francia en la final.
+          author:
+            type: string
+            description: Autor de la noticia.
+            example: Gonzalo Gomez
+          image:
+            type: string
+            description: Url de la imagen de la noticia.
+            example: http://fsdfsdf.com/asdsad.jpg    
+

@@ -7,5 +7,4 @@ export default class ProductDaoMySql extends MySqlDao {
   }
 }
 
-//! --> user.dao
 

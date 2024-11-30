@@ -1,6 +1,3 @@
-//! vamos a agregar la importacion de los managers de mysql y la funcion que levanta la conexión
-//! a la base de datos
-
 import ProductDaoMongo from "./mongodb/product.dao.js";
 import UserDaoMongo from "./mongodb/user.dao.js";
 import { initMongoDB } from "./mongodb/connection.js";

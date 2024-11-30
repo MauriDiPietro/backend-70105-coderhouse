@@ -1,0 +1,30 @@
+[2024-11-30T15:16:25.396] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:18:04.137] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:18:06.092] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:19:56.763] [INFO] default - se limpió la colección
+[2024-11-30T15:19:56.883] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:19:56.946] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:22:45.301] [INFO] default - se limpió la colección
+[2024-11-30T15:22:45.335] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:22:45.383] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:26:52.460] [INFO] default - se limpió la colección
+[2024-11-30T15:26:52.505] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:26:52.625] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:36:05.155] [INFO] default - se limpió la colección
+[2024-11-30T15:36:05.213] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:36:05.298] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:42:42.632] [INFO] default - se limpió la colección
+[2024-11-30T15:42:42.763] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:42:42.877] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:47:25.811] [INFO] default - se limpió la colección
+[2024-11-30T15:47:25.861] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:47:25.910] [INFO] default - {
+  title: 'Delinquo acies venustas turba.',
+  body: 'Argentum temeritas carpo solum.\n' +
+    'Volup amet verumtamen adinventitias demum pecto.\n' +
+    'Statim quo maxime thymbra caecus copia calamitas.\n' +
+    'Auctor stella contabesco voluntarius caterva attonbitus.',
+  author: 'Jennifer Soto Cazares',
+  image: 'https://picsum.photos/seed/Hdo5X/640/480'
+}
+[2024-11-30T15:47:25.971] [INFO] default - finalizaron las pruebas

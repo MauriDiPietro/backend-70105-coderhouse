@@ -1,7 +1,7 @@
 import MongoDao from "./mongo.dao.js";
-import {UserModel} from "./models/user.model.js";
-import {createHash, isValidPassword} from '../../../utils.js';
-import jwt from 'jsonwebtoken';
+import { UserModel } from "./models/user.model.js";
+import { createHash, isValidPassword } from "../../../utils.js";
+import jwt from "jsonwebtoken";
 import dotenv from "dotenv";
 dotenv.config();
 
@@ -34,50 +34,44 @@ export default class UserDaoMongo extends MongoDao {
   async register(user) {
     try {
       const { email, password } = user;
-      const existUser = await this.model.findOne({email});
-      if(!existUser){
-          const newUser = await this.model.create({...user, password: createHash(password)})
-          const token = this.#generateToken(newUser)
-          return token;
-      } else {
-        return false;
-      }
+      const existUser = await this.model.findOne({ email });
+      if (existUser) throw new Error("User already registered");
+      const newUser = await this.model.create({
+        ...user,
+        password: createHash(password),
+      });
+      const token = this.#generateToken(newUser);
+      return token;
     } catch (error) {
-      throw new Error(error.message);
+      throw (error);
     }
   }
 
-  async login(user){
+  async login(user) {
     try {
       const { email, password } = user;
-      const userExist = await this.getByEmail(email); 
-      if(userExist){
-        const passValid = isValidPassword(userExist, password)
-        if(!passValid) return false
+      const userExist = await this.getByEmail(email);
+      if (userExist) {
+        const passValid = isValidPassword(userExist, password);
+        if (!passValid) return false;
         else {
-          const token = this.#generateToken(userExist)
+          const token = this.#generateToken(userExist);
           return token;
         }
-      } return false
+      }
+      return false;
     } catch (error) {
       throw new Error(error.message);
     }
   }
 
-  async getByEmail(email){
+  async getByEmail(email) {
     try {
-      const userExist = await this.model.findOne({email}); 
-      if(userExist){
-       return userExist
-      } return false
+      const userExist = await this.model.findOne({ email });
+      if (!userExist) throw new Error('User does not exist')
+      return userExist;
     } catch (error) {
-      throw new Error(error.message);
+      throw (error);
     }
   }
-
 }
-
-
-
-
-

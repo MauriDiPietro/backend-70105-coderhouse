@@ -1,7 +1,3 @@
-/*
-vamos a cambiar los métodos y utilizar los de sequelize en lugar de los de mongoose
-*/
-
 export default class MySqlDao {
   constructor(model) {
     this.model = model;
@@ -9,63 +5,53 @@ export default class MySqlDao {
 
   async getAll() {
     try {
-      const response = await this.model.findAll();
-      return response;
+      return await this.model.findAll();
     } catch (error) {
-      console.log(error);
+      throw new Error(error);
     }
   }
 
   async getById(id) {
     try {
-      // console.log('DAO------------', id);
-      const response = await this.model.findOne({
+      return await this.model.findOne({
         where: {
             id: id
         }
     });
-      return response;
     } catch (error) {
-      console.log(error);
+      throw new Error(error);
     }
   }
 
   async create(obj) {
     try {
-      const response = await this.model.create(obj);
-      return response;
+      return await this.model.create(obj);
     } catch (error) {
-      console.log(error);
+      throw new Error(error);
     }
   }
 
   async update(id, body) {
     try {
-      await this.model.update(body, {
+      return await this.model.update(body, {
         where: {
             id: id
         }
     })
-      return body;
     } catch (error) {
-      console.log(error);
+      throw new Error(error);
     }
   }
 
   async delete(id) {
     try {
-      const response = await this.model.destroy({
+      return await this.model.destroy({
         where: {
             id: id
         }
     });
-      return response;
     } catch (error) {
-      console.log(error);
+      throw new Error(error);
     }
   }
 }
-
-
-//! --> connection
-
