@@ -1,0 +1,357 @@
+[2024-11-30T15:16:25.396] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:18:04.137] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:18:06.092] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:19:56.763] [INFO] default - se limpió la colección
+[2024-11-30T15:19:56.883] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:19:56.946] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:22:45.301] [INFO] default - se limpió la colección
+[2024-11-30T15:22:45.335] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:22:45.383] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:26:52.460] [INFO] default - se limpió la colección
+[2024-11-30T15:26:52.505] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:26:52.625] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:36:05.155] [INFO] default - se limpió la colección
+[2024-11-30T15:36:05.213] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:36:05.298] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:42:42.632] [INFO] default - se limpió la colección
+[2024-11-30T15:42:42.763] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:42:42.877] [INFO] default - finalizaron las pruebas
+[2024-11-30T15:47:25.811] [INFO] default - se limpió la colección
+[2024-11-30T15:47:25.861] [INFO] default - Conectado a MongoDB!
+[2024-11-30T15:47:25.910] [INFO] default - {
+  title: 'Delinquo acies venustas turba.',
+  body: 'Argentum temeritas carpo solum.\n' +
+    'Volup amet verumtamen adinventitias demum pecto.\n' +
+    'Statim quo maxime thymbra caecus copia calamitas.\n' +
+    'Auctor stella contabesco voluntarius caterva attonbitus.',
+  author: 'Jennifer Soto Cazares',
+  image: 'https://picsum.photos/seed/Hdo5X/640/480'
+}
+[2024-11-30T15:47:25.971] [INFO] default - finalizaron las pruebas
+[2024-12-07T12:03:57.940] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:03:58.078] [INFO] default - Conectado a MongoDB!
+[2024-12-07T12:05:20.389] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:05:20.483] [INFO] default - Conectado a MongoDB!
+[2024-12-07T12:06:38.720] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:06:55.607] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:09:29.444] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:09:55.679] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:09:56.259] [INFO] default - POST /news
+[2024-12-07T12:11:26.078] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:11:26.273] [INFO] default - POST /news
+[2024-12-07T12:17:26.635] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:17:26.791] [INFO] default - POST /news
+[2024-12-07T12:18:30.542] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:18:30.740] [INFO] default - POST /news
+[2024-12-07T12:24:43.869] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:24:44.003] [INFO] default - POST /news
+[2024-12-07T12:24:44.060] [INFO] default - GET /news
+[2024-12-07T12:25:03.115] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:25:03.251] [INFO] default - POST /news
+[2024-12-07T12:25:03.310] [INFO] default - GET /news
+[2024-12-07T12:25:36.222] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:25:36.366] [INFO] default - POST /news
+[2024-12-07T12:25:36.427] [INFO] default - GET /news
+[2024-12-07T12:28:12.979] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:28:13.114] [INFO] default - POST /news
+[2024-12-07T12:28:13.178] [INFO] default - GET /news
+[2024-12-07T12:31:45.940] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:31:46.217] [INFO] default - POST /news
+[2024-12-07T12:31:46.333] [INFO] default - GET /news
+[2024-12-07T12:45:13.036] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:45:13.403] [INFO] default - POST /news
+[2024-12-07T12:45:13.474] [INFO] default - GET /news
+[2024-12-07T12:45:13.579] [INFO] default - POST /news
+[2024-12-07T12:45:13.599] [INFO] default - GET /news/67546d89e49c183881dbc99b
+[2024-12-07T12:45:13.624] [INFO] default - GET /news/67546544c49af1ad07095268
+[2024-12-07T12:50:24.414] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:50:24.536] [INFO] default - POST /news
+[2024-12-07T12:50:24.600] [INFO] default - GET /news
+[2024-12-07T12:50:24.720] [INFO] default - POST /news
+[2024-12-07T12:50:24.741] [INFO] default - GET /news/67546ec0775422c3b1619895
+[2024-12-07T12:50:24.768] [INFO] default - GET /news/67546544c49af1ad07095268
+[2024-12-07T12:50:24.793] [INFO] default - POST /news
+[2024-12-07T12:50:24.821] [INFO] default - PUT /news/67546ec0775422c3b1619899
+[2024-12-07T12:53:44.113] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T12:53:44.253] [INFO] default - POST /news
+[2024-12-07T12:53:44.328] [INFO] default - GET /news
+[2024-12-07T12:53:44.439] [INFO] default - POST /news
+[2024-12-07T12:53:44.464] [INFO] default - GET /news/67546f88cb5b0ea8cf8a057e
+[2024-12-07T12:53:44.498] [INFO] default - GET /news/67546544c49af1ad07095268
+[2024-12-07T12:53:44.522] [INFO] default - POST /news
+[2024-12-07T12:53:44.545] [INFO] default - PUT /news/67546f88cb5b0ea8cf8a0582
+[2024-12-07T12:53:44.580] [INFO] default - POST /news
+[2024-12-07T12:53:44.604] [INFO] default - DELETE /news/67546f88cb5b0ea8cf8a0586
+[2024-12-07T12:53:44.627] [INFO] default - GET /news/67546f88cb5b0ea8cf8a0586
+[2024-12-07T13:07:15.202] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T13:07:53.574] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T13:08:30.851] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T13:09:30.994] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T13:10:38.865] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T13:11:38.008] [INFO] default - POST /
+[2024-12-07T13:11:55.836] [INFO] default - POST /
+[2024-12-07T13:12:40.424] [INFO] default - POST /
+[2024-12-07T13:13:07.712] [INFO] default - POST /
+[2024-12-07T13:13:33.278] [INFO] default - POST /
+[2024-12-07T13:13:53.675] [INFO] default - POST /
+[2024-12-07T13:14:15.226] [INFO] default - POST /
+[2024-12-07T13:15:02.387] [INFO] default - POST /
+[2024-12-07T13:15:42.046] [INFO] default - POST /
+[2024-12-07T13:18:30.746] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T13:18:34.712] [INFO] default - POST /
+[2024-12-07T13:20:15.839] [INFO] default - POST /
+[2024-12-07T13:20:23.955] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T13:20:27.549] [INFO] default - POST /
+[2024-12-07T13:23:56.408] [INFO] default - GET /news
+[2024-12-07T13:24:06.323] [INFO] default - POST /news
+[2024-12-07T13:25:46.166] [INFO] default - POST /
+[2024-12-07T13:26:04.284] [INFO] default - POST /
+[2024-12-07T13:26:58.665] [INFO] default - POST /
+[2024-12-07T13:27:26.619] [INFO] default - POST /
+[2024-12-07T13:28:30.160] [INFO] default - POST /
+[2024-12-07T13:30:59.922] [INFO] default - POST /
+[2024-12-07T13:31:20.898] [INFO] default - POST /
+[2024-12-07T13:32:02.968] [INFO] default - POST /news
+[2024-12-07T13:32:02.975] [FATAL] default - Error: News validation failed: image: Path `image` is required., author: Path `author` is required., body: Path `body` is required., title: Path `title` is required.
+    at ValidationError.inspect (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\error\validation.js:52:26)
+    at formatValue (node:internal/util/inspect:806:19)
+    at inspect (node:internal/util/inspect:365:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2304:40)
+    at Object.format (node:internal/util/inspect:2161:10)
+    at basicLayout (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\log4js\lib\layouts.js:65:52)
+    at app (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\log4js\lib\appenders\file.js:98:23)
+    at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    image: ValidatorError: Path `image` is required.
+        at validate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1385:13)
+        at SchemaType.doValidate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1369:7)
+        at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\document.js:3071:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'image',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    },
+    author: ValidatorError: Path `author` is required.
+        at validate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1385:13)
+        at SchemaType.doValidate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1369:7)
+        at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\document.js:3071:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    },
+    body: ValidatorError: Path `body` is required.
+        at validate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1385:13)
+        at SchemaType.doValidate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1369:7)
+        at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\document.js:3071:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'body',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1385:13)
+        at SchemaType.doValidate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1369:7)
+        at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\document.js:3071:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    }
+  },
+  _message: 'News validation failed'
+}
+[2024-12-07T13:32:19.302] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T13:32:24.108] [INFO] default - POST /news
+[2024-12-07T13:32:24.127] [FATAL] default - Error: News validation failed: image: Path `image` is required., author: Path `author` is required., body: Path `body` is required., title: Path `title` is required.
+    at ValidationError.inspect (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\error\validation.js:52:26)
+    at formatValue (node:internal/util/inspect:806:19)
+    at inspect (node:internal/util/inspect:365:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2304:40)
+    at Object.format (node:internal/util/inspect:2161:10)
+    at basicLayout (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\log4js\lib\layouts.js:65:52)
+    at app (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\log4js\lib\appenders\file.js:98:23)
+    at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    image: ValidatorError: Path `image` is required.
+        at validate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1385:13)
+        at SchemaType.doValidate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1369:7)
+        at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\document.js:3071:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'image',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    },
+    author: ValidatorError: Path `author` is required.
+        at validate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1385:13)
+        at SchemaType.doValidate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1369:7)
+        at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\document.js:3071:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    },
+    body: ValidatorError: Path `body` is required.
+        at validate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1385:13)
+        at SchemaType.doValidate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1369:7)
+        at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\document.js:3071:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'body',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1385:13)
+        at SchemaType.doValidate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1369:7)
+        at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\document.js:3071:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    }
+  },
+  _message: 'News validation failed'
+}
+[2024-12-07T13:33:56.075] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T13:34:06.101] [INFO] default - POST /news
+[2024-12-07T13:34:06.139] [FATAL] default - Error: News validation failed: image: Path `image` is required., author: Path `author` is required., body: Path `body` is required., title: Path `title` is required.
+    at ValidationError.inspect (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\error\validation.js:52:26)
+    at formatValue (node:internal/util/inspect:806:19)
+    at inspect (node:internal/util/inspect:365:10)
+    at formatWithOptionsInternal (node:internal/util/inspect:2304:40)
+    at Object.format (node:internal/util/inspect:2161:10)
+    at basicLayout (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\log4js\lib\layouts.js:65:52)
+    at app (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\log4js\lib\appenders\file.js:98:23)
+    at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\log4js\lib\log4js.js:43:5
+    at Array.forEach (<anonymous>)
+    at sendLogEventToAppender (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\log4js\lib\log4js.js:42:21) {
+  errors: {
+    image: ValidatorError: Path `image` is required.
+        at validate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1385:13)
+        at SchemaType.doValidate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1369:7)
+        at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\document.js:3071:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'image',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    },
+    author: ValidatorError: Path `author` is required.
+        at validate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1385:13)
+        at SchemaType.doValidate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1369:7)
+        at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\document.js:3071:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'author',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    },
+    body: ValidatorError: Path `body` is required.
+        at validate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1385:13)
+        at SchemaType.doValidate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1369:7)
+        at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\document.js:3071:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'body',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    },
+    title: ValidatorError: Path `title` is required.
+        at validate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1385:13)
+        at SchemaType.doValidate (D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\schemaType.js:1369:7)
+        at D:\CODERHOUSE\BACKEND\backend-70105-coderhouse\06 - TESTING AVANZADO - NEST 1\01-tests-integracion\node_modules\mongoose\lib\document.js:3071:18
+        at process.processTicksAndRejections (node:internal/process/task_queues:85:11) {
+      properties: [Object],
+      kind: 'required',
+      path: 'title',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose#validatorError)]: true
+    }
+  },
+  _message: 'News validation failed'
+}
+[2024-12-07T13:35:24.616] [INFO] default - POST /news
+[2024-12-07T14:16:50.857] [INFO] default - POST /news
+[2024-12-07T14:17:22.397] [INFO] default - POST /news
+[2024-12-07T14:20:35.980] [INFO] default - POST /news
+[2024-12-07T14:20:35.997] [INFO] default - GET /news
+[2024-12-07T14:21:46.090] [INFO] default - POST /news
+[2024-12-07T14:21:46.119] [INFO] default - GET /news
+[2024-12-07T14:23:15.460] [INFO] default - POST /news
+[2024-12-07T14:23:15.478] [INFO] default - GET /news
+[2024-12-07T14:24:11.622] [INFO] default - POST /news
+[2024-12-07T14:24:11.639] [INFO] default - GET /news
+[2024-12-07T14:27:57.931] [INFO] default - POST /news
+[2024-12-07T14:27:57.963] [INFO] default - GET /news
+[2024-12-07T14:27:57.976] [INFO] default - POST /news
+[2024-12-07T14:28:42.028] [INFO] default - POST /news
+[2024-12-07T14:28:42.073] [INFO] default - GET /news
+[2024-12-07T14:28:42.084] [INFO] default - POST /news
+[2024-12-07T14:30:22.898] [INFO] default - POST /news
+[2024-12-07T14:30:22.918] [INFO] default - GET /news
+[2024-12-07T14:30:22.929] [INFO] default - POST /news
+[2024-12-07T14:31:20.322] [INFO] default - POST /news
+[2024-12-07T14:31:20.341] [INFO] default - GET /news
+[2024-12-07T14:31:20.355] [INFO] default - POST /news
+[2024-12-07T14:31:46.438] [INFO] default - GET /news/67548668f9a7b8fdd622c1f0
+[2024-12-07T14:32:19.847] [INFO] default - POST /news
+[2024-12-07T14:32:19.877] [INFO] default - GET /news
+[2024-12-07T14:32:19.891] [INFO] default - POST /news
+[2024-12-07T14:32:19.898] [INFO] default - GET /news/675486a3f9a7b8fdd622c1f6
+[2024-12-07T14:32:36.848] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T14:32:52.544] [INFO] default - POST /news
+[2024-12-07T14:32:52.582] [INFO] default - GET /news
+[2024-12-07T14:32:52.663] [INFO] default - POST /news
+[2024-12-07T14:32:52.674] [INFO] default - GET /news/675486c446c69ada6153ceed
+[2024-12-07T14:33:28.437] [INFO] default - POST /news
+[2024-12-07T14:33:28.465] [INFO] default - GET /news
+[2024-12-07T14:33:28.483] [INFO] default - POST /news
+[2024-12-07T14:33:28.492] [INFO] default - GET /news/675486e846c69ada6153cef3
+[2024-12-07T14:33:28.500] [INFO] default - GET /news/67546544c49af1ad07095268
+[2024-12-07T14:33:55.453] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T14:34:00.602] [INFO] default - POST /news
+[2024-12-07T14:34:00.647] [INFO] default - GET /news
+[2024-12-07T14:34:00.727] [INFO] default - POST /news
+[2024-12-07T14:34:00.736] [INFO] default - GET /news/675487083367392ed924c487
+[2024-12-07T14:34:00.747] [INFO] default - GET /news/67546544c49af1ad07095268
+[2024-12-07T14:34:50.647] [INFO] default - 🚀 Server started on port http://localhost:8080
+[2024-12-07T14:35:22.868] [INFO] default - POST /news
+[2024-12-07T14:35:22.916] [INFO] default - GET /news
+[2024-12-07T14:35:22.983] [INFO] default - POST /news
+[2024-12-07T14:35:22.993] [INFO] default - GET /news/6754875a96a169e4cb4ac613
+[2024-12-07T14:35:23.004] [INFO] default - GET /news/67546544c49af1ad07095268
