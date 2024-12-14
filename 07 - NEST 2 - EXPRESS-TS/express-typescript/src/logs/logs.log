@@ -1,0 +1,15 @@
+[2024-12-14T16:01:51.336] [ERROR] default - {
+  name: 'CastError',
+  message: 'Cast to ObjectId failed for value "products" (type string) at path "_id" for model "products"',
+  url: '/api/products'
+}
+[2024-12-14T16:03:16.583] [ERROR] default - {
+  name: 'CastError',
+  message: 'Cast to ObjectId failed for value "products" (type string) at path "_id" for model "products"',
+  url: '/api/products'
+}
+[2024-12-14T16:03:22.533] [ERROR] default - {
+  name: 'CastError',
+  message: 'Cast to ObjectId failed for value "products" (type string) at path "_id" for model "products"',
+  url: '/api/products'
+}
